@@ -43,7 +43,7 @@ moving:
     #   instance: 
 
 # Build settings
-remote_theme: cautious-robot /cautious-robot.github.io  # note, please use huangyz0918/moving if you want to publish to Github Pages.
+remote_theme: huangyz0918/moving  # note, please use huangyz0918/moving if you want to publish to Github Pages.
 
 plugins:
   - jekyll-feed
